@@ -1,0 +1,1 @@
+I think I finally got git bash working on my windows pc!
